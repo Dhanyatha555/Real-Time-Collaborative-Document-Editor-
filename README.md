@@ -9,19 +9,6 @@ A full-stack web application that allows multiple users to edit documents in rea
 - **Document Management:** Create, view, and save documents securely to a MongoDB database.
 - **Responsive UI:** Clean, intuitive interface built with React and Bootstrap.
 
-## Screenshots
-
-*(Add your screenshots to a `screenshots` folder in the root directory and they will appear here)*
-
-### Dashboard / Document List
-![Dashboard / Document List](./screenshots/dashboard.png)
-
-### Real-time Editing Interface
-![Document Editor](./screenshots/editor.png)
-
-### Login / Signup
-![Authentication](./screenshots/auth.png)
-
 ## Tech Stack
 
 ### Frontend (Client)
