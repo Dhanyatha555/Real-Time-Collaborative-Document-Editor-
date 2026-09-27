@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f6fb;
+}
+
+.editor-area {
+  min-height: 420px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  padding: 1rem;
+}
+
+.title-input {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
